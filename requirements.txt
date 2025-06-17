@@ -3,5 +3,3 @@ pandas
 numpy
 PyPDF2
 PyMuPDF
-re
-csv

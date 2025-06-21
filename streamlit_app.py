@@ -5,7 +5,7 @@ import parsing
 
 st.set_page_config(page_title="Requirements hierarchy extraction and categorization")
 
-st.title("Requirements extraction")
+st.title("Requirements hierarchy extraction and categorization")
 
 uploaded_file = st.file_uploader("Select PDF-file with requirements", type="pdf")
 
